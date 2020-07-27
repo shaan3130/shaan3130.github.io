@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="files/image.jpg" alt="hi" class="inline"/>
+<img src="images/image.jpg" alt="hi" class="inline"/>
 
 # About Me
 * I'm Ameya Anjarlekar, B.Tech student in the [Electrical Department](https://www.ee.iitb.ac.in/web) at [Indian Institute of Technology, Bombay](http://iitb.ac.in/). I am also pursuing a minor in Computer Science. Here's my [Curriculum Vitae](http://ameyanjarlekar.github.io/files/CV.pdf)
