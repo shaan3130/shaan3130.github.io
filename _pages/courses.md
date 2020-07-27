@@ -5,7 +5,7 @@ permalink: /courses/
 author_profile: true
 ---
 
-Here are the key course that I have completed so far:
+Here are the key courses that I have completed so far:
 
 <b>Signal and Systems(EE 210)</b> <br> 
 
