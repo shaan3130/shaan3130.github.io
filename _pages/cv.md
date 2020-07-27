@@ -11,4 +11,4 @@ redirect_from:
 
 [Click to View My Up-to-date Curriculum Vitae [PDF]](http://shaan3130.github.io/files/resume.pdf)
 
-<!-- <embed src="http://ameyanjarlekar.github.io/files/CV.pdf" width="650" height="1800" type='application/pdf'> -->
+<!-- <embed src="http://shaan3130.github.io/files/resume.pdf" width="650" height="1800" type='application/pdf'> -->
