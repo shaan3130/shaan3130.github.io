@@ -7,7 +7,6 @@ author_profile: true
 
 Here are the key course that I have completed so far:
 
-<br>
 <b>Signal and Systems(EE 210)</b> <br> 
 
 <b>Data Analysis and Interpretation (EE 223)</b> <br>
