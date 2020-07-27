@@ -18,6 +18,9 @@ main:
   - title: "Resume"
     url: /files/resume.pdf
     
+  - title: "Courses"
+    url: /courses/
+    
   - title: "Hobbies and Interests"
     url: /interests/
     
