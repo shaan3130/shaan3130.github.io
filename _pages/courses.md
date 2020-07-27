@@ -43,4 +43,8 @@ Here are the key course that I have completed so far:
 <br>
 <b>Computer Programming and Utilization (CS 101)</b> <br>
 
-
+<br>
+<b>MOOC</b> <br>
+* Convolutional Neural Networks(Coursera)
+* Sequence Models(Coursera)
+* NLP with Classification Vectors(Coursera)
