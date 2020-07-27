@@ -14,7 +14,7 @@ Here are the key course that I have completed so far:
 <b>Data Analysis and Interpretation (EE 223)</b> <br>
 
 <br>
-<b>Data Structure and Algorithms (CS 213(M)</b> <br>  
+<b>Data Structure and Algorithms (CS 213(M))</b> <br>  
 
 <br>
 <b>Machine Learning for Remote Sensing-1(GNR 652)</b> <br> 
