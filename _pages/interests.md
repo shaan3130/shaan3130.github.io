@@ -18,7 +18,7 @@ students and campus residents. I like singing too and once won first prize in a 
          height="360">
   </div>
   <div class="column">
-    <img align="right" src="/images/Image3.jpg" alt="i2" width="300"
+    <img align="right" src="/images/Image7.jpg" alt="i2" width="300"
          height="340">
   </div>
   
@@ -30,7 +30,7 @@ students and campus residents. I like singing too and once won first prize in a 
          height="360"/>
   </div>
   <div class="column">
-    <img align="left" src="/images/Image7.jpg" alt="i6" width="300"
+    <img align="left" src="/images/Image3.jpg" alt="i6" width="300"
          height="360"/>
   </div>
  </div>
