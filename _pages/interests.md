@@ -26,11 +26,7 @@ students and campus residents. I like singing too and once won first prize in a 
 
 <div class="row">
   <div class="column">
-    <img align="left" src="/images/Image3.jpg" alt="i4" width="300"
-         height="345"/>
-  </div>
-  <div class="column">
-    <img align="center" src="/images/Image7.jpg" alt="i5" width="300"
+    <img align="right" src="/images/Image3.jpg" alt="i4" width="300"
          height="345"/>
   </div>
   <div class="column">
