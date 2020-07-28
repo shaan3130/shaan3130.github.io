@@ -14,15 +14,15 @@ students and campus residents. I like singing too and once won first prize in a 
 # Gallery
 <div class="row">
   <div class="column">
-    <img src="/images/Image1.jpg" alt="i1" width="300"
+    <img align="left" src="/images/Image1.jpg" alt="i1" width="300"
          height="200">
   </div>
   <div class="column">
-    <img src="/images/Image2.jpg" alt="i2" width="300"
+    <img align="center" src="/images/Image2.jpg" alt="i2" width="300"
          height="200">
   </div>
   <div class="column">
-    <img src="/images/Image8.jpg" alt="i3" width="300"
+    <img align="right" src="/images/Image8.jpg" alt="i3" width="300"
          height="200">
   </div>
 </div>
