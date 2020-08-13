@@ -4,6 +4,18 @@ title: "Courses"
 permalink: /courses/
 author_profile: true
 ---
+Courses I am currently doing:
+<b>Fundamentals of Digital Image Processing(CS 663)</b> <br> 
+
+<b>Digital Signal Processing(EE 338)</b> <br> 
+
+<b>Probability and Random Process(EE 325)</b> <br> 
+
+<b>Communication Systems(EE 308)</b> <br> 
+
+<b>Design and Analysis of Algorithms(CS 218(M))</b> <br> 
+
+<b>Microprocessors(EE 309)</b> <br> 
 
 Here are the key courses that I have completed so far:
 
