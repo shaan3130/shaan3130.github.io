@@ -5,6 +5,7 @@ permalink: /courses/
 author_profile: true
 ---
 Courses I am currently doing:
+
 <b>Fundamentals of Digital Image Processing(CS 663)</b> <br> 
 
 <b>Digital Signal Processing(EE 338)</b> <br> 
