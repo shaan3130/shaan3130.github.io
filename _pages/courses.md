@@ -10,7 +10,7 @@ Courses I am currently doing:
 
 <b>Digital Signal Processing(EE 338)</b> <br> 
 
-<b>Probability and Random Process(EE 325)</b> <br> 
+<b>Probability and Random Processes(EE 325)</b> <br> 
 
 <b>Communication Systems(EE 308)</b> <br> 
 
