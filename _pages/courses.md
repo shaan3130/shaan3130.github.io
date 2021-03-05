@@ -12,9 +12,9 @@ Courses I am currently doing:
 
 <b>Digital Communication(EE 328)</b> <br> 
 
-<b>Communication Lab(EE 340)</b> <br> 
-
 <b>Fundamentals of Machine Learning(CS 419(M))</b> <br> 
+
+<b>Communication Lab(EE 340)</b> <br> 
 
 <b>Controls Systems(EE 302)</b> <br> 
 
