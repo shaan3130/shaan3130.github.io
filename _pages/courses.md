@@ -6,6 +6,25 @@ author_profile: true
 ---
 Courses I am currently doing:
 
+<b>Advanced Image Processing(CS 754)</b> <br> 
+
+<b>Information Theory and Coding(EE 708)</b> <br> 
+
+<b>Digital Communication(EE 328)</b> <br> 
+
+<b>Communication Lab(EE 340)</b> <br> 
+
+<b>Fundamentals of Machine Learning(CS 419(M))</b> <br> 
+
+<b>Controls Systems(EE 302)</b> <br> 
+
+<b>Microprocessor Laboratory(EE 337)</b> <br> 
+
+<b>Controls Systems Lab(EE 324)</b> <br>
+
+
+Here are the key courses that I have completed so far:
+
 <b>Fundamentals of Digital Image Processing(CS 663)</b> <br> 
 
 <b>Digital Signal Processing(EE 338)</b> <br> 
@@ -17,8 +36,6 @@ Courses I am currently doing:
 <b>Design and Analysis of Algorithms(CS 218(M))</b> <br> 
 
 <b>Microprocessors(EE 309)</b> <br> 
-
-Here are the key courses that I have completed so far:
 
 <b>Signal and Systems(EE 210)</b> <br> 
 
