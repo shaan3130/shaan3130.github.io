@@ -12,7 +12,7 @@ Currently, I am involved in this research and working on writing it as a publica
 
 # Projects
 * <b>Fischer Faces vs Eigen Faces</b> <br>
-[documentation](http://shaan3130.github.io/files/project.pdf)
+This was a course project which I did with two other team members. Fischer Linear Discriminant is a classification algorithm which tries to project data into a dimension where within class scatter is minimized while between class scatter is maximized. We implemented this algorithm on CMU Facedatset and Yale A abd Yale B face dataset and found the results to be fascinating. The algorithm did very well with Yale dataset but performed very poor on the CMU dataset. For reasons please refer to the [documentation](http://shaan3130.github.io/files/project.pdf). As an extension, we also used FLD to classify images with people having glasses or without it.
 * <b>Autonomous Security Bot</b> <br>
 We developed a bot that could be used in residential or industrial complexes. It not only identifies strangers but also guides people, like guests or visitors who come to the complex first time, to the right destination. Our idea was to use a microprocessor(Raspberry Pi in our case) which would store the map of the complex and data of all the residents in it. When it encountered a person it would straightaway mail the security guard of a potential security breach and if the person was a credible visitor it would guide him/her to the destination. For complete information please refer to the [documentation](http://shaan3130.github.io/files/Tech%20Chef%20-%20Documentation.pdf).
 * <b>Image Inpainting Via Sparse Representation</b> <br>
