@@ -15,8 +15,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "Resume"
-    url: /files/shaan_resume.pdf
+  - title: "CV"
+    url: /files/CV.pdf
     
   - title: "Courses"
     url: /courses/
