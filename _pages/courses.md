@@ -4,7 +4,8 @@ title: "Courses"
 permalink: /courses/
 author_profile: true
 ---
-Courses I am currently doing:
+
+Here are the key courses that I have completed so far:
 
 <b>Advanced Image Processing(CS 754)</b> <br> 
 
@@ -21,9 +22,6 @@ Courses I am currently doing:
 <b>Microprocessor Laboratory(EE 337)</b> <br> 
 
 <b>Controls Systems Lab(EE 324)</b> <br>
-
-
-Here are the key courses that I have completed so far:
 
 <b>Fundamentals of Digital Image Processing(CS 663)</b> <br> 
 
