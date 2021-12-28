@@ -5,7 +5,7 @@ permalink: /courses/
 author_profile: true
 ---
 
-Here are the key courses that I have completed so far: </b>
+Here are the key courses that I have completed so far: <br> 
 <b>Advanced Probability and Random Processes(EE 734)</b> <br> 
 
 <b>Foundations of Intelligent and Learning Agents(CS 747)</b> <br> 
