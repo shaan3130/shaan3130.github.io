@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 Here are the key courses that I have completed so far:
+<b>Advanced Probability and Random Processes(EE 734)</b> <br> 
+
+<b>Foundations of Intelligent and Learning Agents(CS 747)</b> <br> 
+
+<b>A First Course in Optimisation(EE 659)</b> <br> 
 
 <b>Advanced Image Processing(CS 754)</b> <br> 
 
@@ -15,21 +20,15 @@ Here are the key courses that I have completed so far:
 
 <b>Fundamentals of Machine Learning(CS 419(M))</b> <br> 
 
-<b>Communication Lab(EE 340)</b> <br> 
-
-<b>Controls Systems(EE 302)</b> <br> 
+<b>Controls Systems and Lab(EE 302 & EE 324)</b> <br> 
 
 <b>Microprocessor Laboratory(EE 337)</b> <br> 
-
-<b>Controls Systems Lab(EE 324)</b> <br>
-
-<b>Fundamentals of Digital Image Processing(CS 663)</b> <br> 
 
 <b>Digital Signal Processing(EE 338)</b> <br> 
 
 <b>Probability and Random Processes(EE 325)</b> <br> 
 
-<b>Communication Systems(EE 308)</b> <br> 
+<b>Communication Systems and Lab(EE 308 & EE 340)</b> <br> 
 
 <b>Design and Analysis of Algorithms(CS 218(M))</b> <br> 
 
@@ -41,23 +40,15 @@ Here are the key courses that I have completed so far:
 
 <b>Data Structure and Algorithms (CS 213(M))</b> <br>  
 
-<b>Machine Learning for Remote Sensing-1(GNR 652)</b> <br> 
-
 <b>Complex Analysis(MA 205)</b> <br> 
-
-<b>Partial Differential Equations(MA 207)</b> <br> 
 
 <b>Linear Algebra(MA 106)</b> <br>
 
 <b>Calculus(MA 105)</b> <br>
 
-<b>Ordinary Differential Equations 1(MA 108)</b> <br>
+<b>Ordinary and Partial Differential Equations 1(MA 108 & MA 207)</b> <br>
 
 <b>Digital Systems(EE 224)</b> <br>
-
-<b>Network Theory(EE 225)</b> <br> 
-
-<b>Computer Programming and Utilization (CS 101)</b> <br>
 
 # MOOC <br>
 * Convolutional Neural Networks(Coursera)
