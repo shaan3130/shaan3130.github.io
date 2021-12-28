@@ -22,8 +22,6 @@ Here are the key courses that I have completed so far: <br>
 
 <b>Controls Systems and Lab(EE 302 & EE 324)</b> <br> 
 
-<b>Microprocessor Laboratory(EE 337)</b> <br> 
-
 <b>Digital Signal Processing(EE 338)</b> <br> 
 
 <b>Probability and Random Processes(EE 325)</b> <br> 
@@ -32,7 +30,7 @@ Here are the key courses that I have completed so far: <br>
 
 <b>Design and Analysis of Algorithms(CS 218(M))</b> <br> 
 
-<b>Microprocessors(EE 309)</b> <br> 
+<b>Microprocessors and Lab(EE 309 & EE 337)</b> <br> 
 
 <b>Signal and Systems(EE 210)</b> <br> 
 
