@@ -16,7 +16,7 @@ My interests are in the theoretical analysis of Stochastic Approximation Algorit
 
 I like to workout, cook and watch anime. 
 
-# <span style="color:deepskyblue;"Awards and Achievements</span>
+# <span style="color:deepskyblue;">Awards and Achievements</span>
 * Recipient of *Stewart Topper Fellowship Award from ISyE department*, Georgia Tech. <br>
 * Awarded *Undergraduate Research Award-01 (URA-01)* by IIT Bombay for research on RADAR Imaging. <br>
 * Secured *All India Rank 111 in JEE Advanced*, 2018 among selected 172,000 aspirants. <br>
