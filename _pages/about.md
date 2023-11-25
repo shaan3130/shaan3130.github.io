@@ -16,7 +16,13 @@ My interests are in the theoretical analysis of Stochastic Approximation Algorit
 
 I like to workout, cook and watch anime. 
 
-# List of my Research Papers
-
+# Research Papers
+* <b>Shaan Ul Haque, Sajad Khodadadian, Siva Theja Maguluri, "Tight Finite Time Bounds of Two-Time-Scale Linear Stochastic Approximation with Markovian Noise" (Submitted in AISTATS 2024. Will be out soon.) </b> <br>
+* <b>Joint Probability Estimation Using Tensor Decomposition and Dictionaries  </b> <br>
+Submitted in AISTATS 2024. Will be out soon.
+* <b>Tight Finite Time Bounds of Two-Time-Scale Linear Stochastic Approximation with Markovian Noise  </b> <br>
+Submitted in AISTATS 2024. Will be out soon.
+* <b>Tight Finite Time Bounds of Two-Time-Scale Linear Stochastic Approximation with Markovian Noise  </b> <br>
+Submitted in AISTATS 2024. Will be out soon.
 
 
