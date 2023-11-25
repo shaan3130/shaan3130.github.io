@@ -16,6 +16,9 @@ My interests are in the theoretical analysis of Stochastic Approximation Algorit
 
 I like to workout, cook and watch anime. 
 
+# Awards and Achievements
+* <b>Recipient of <span style="color:blue"> *Stewart Topper Fellowship Award from ISyE department* </span>, Georgia Tech. </b> <br>
+
 # Research Papers
 * <b>Shaan Ul Haque, Sajad Khodadadian, Siva Theja Maguluri, "Tight Finite Time Bounds of Two-Time-Scale Linear Stochastic Approximation with Markovian Noise" (Submitted in AISTATS 2024. Will be out soon). </b> <br>
 * <b>Shaan Ul Haque, Ajit Rajwade, Karthik S Gurumoorthy, "Joint Probability Estimation Using Tensor Decomposition and Dictionaries", [EUSIPCO 2022](https://eurasip.org/Proceedings/Eusipco/Eusipco2022/pdfs/0002226.pdf).  </b> <br>
