@@ -23,7 +23,7 @@ I like to workout, cook and watch anime.
 * Recipient of fellowship by the Indian Institute Of Science (IISc), Bangalore for clearing *Kishore Vagyanik Protsahan Yojana (KVPY)*. <br>
 * Awarded scholarship by Government of India for clearing *NTSE (National Talent Search Examination)* in 2016. <br>
 
-# Research Papers
+# <span style="color:deepskyblue;">Research Papers</span>
 * Shaan Ul Haque, Sajad Khodadadian, Siva Theja Maguluri, "Tight Finite Time Bounds of Two-Time-Scale Linear Stochastic Approximation with Markovian Noise" (Submitted in AISTATS 2024. Will be out soon). <br>
 * Shaan Ul Haque, Ajit Rajwade, Karthik S Gurumoorthy, "Joint Probability Estimation Using Tensor Decomposition and Dictionaries", [EUSIPCO 2022](https://eurasip.org/Proceedings/Eusipco/Eusipco2022/pdfs/0002226.pdf).   <br>
 * S Sharma, A Girish, N P Rakhashia, V M Gadre, Shaan Ul Haque, A Ansari, R B Pachori, P Radhakrishna, P Sahay, "Theoretical Analysis of an Inverse Radon Transform Based Multicomponent Micro-Doppler Parameter Estimation Algorithm", [2022 National Conference on Communications (NCC)](https://ieeexplore.ieee.org/abstract/document/9806802).  <br>
