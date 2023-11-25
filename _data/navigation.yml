@@ -18,11 +18,11 @@ main:
   - title: "CV"
     url: /files/Shaan_CV.pdf
     
-  - title: "Courses"
-    url: /courses/
+  #- title: "Courses"
+  #  url: /courses/
     
-  - title: "Hobbies and Interests"
-    url: /interests/
+  #- title: "Hobbies and Interests"
+  #  url: /interests/
     
   #- title: "Guide"
   #  url: /markdown/
