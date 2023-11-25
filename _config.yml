@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shaan"
   avatar           : "Picture.jpg"
-  bio              : "Student of Electrical Engineering, IIT Bombay"
-  location         : "Ranchi, Jharkhand, India"
+  bio              : "PhD in Machine Learning, Georgia Tech"
+  location         : "Atlanta, Georgia, USA"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            :  "shaanulhaque80@gmail.com"
+  googlescholar    :  "https://scholar.google.com/citations?user=nB4-BGAAAAAJ"
+  email            :  "shaque49@gatech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
