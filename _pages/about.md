@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/image.jpg" alt="hi" class="inline"/>
+<img src="/images/GA_Tech.png" alt="hi" class="inline"/>
 
 Hello all! I am Shaan ul Haque, a third-year undergraduate student, studying [Electrical Engineering](https://www.ee.iitb.ac.in/web) from [Indian Institute of Technology, Bombay](http://iitb.ac.in/). Currently, I am also pursuing minor in Computer Science and Engineering. I have completed my matric and high school from Delhi Public School, Ranchi.
 My interests lies broadly at the conjuction of Machine Learning, Reinforcement Learning, Optimisation and Probability. More specifically I like their applications in Learning Agents, Communication, IoT, data science and beyond. Currently, I am working on two research projects, one under Prof. Vivek Borkar and other being under Prof. Ajit Rajwade. Former involves the theoretical analysis of performance of average-reward RL and latter is related to joint probability estimation from lower dimensional marginals.
