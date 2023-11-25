@@ -24,9 +24,9 @@ I like to workout, cook and watch anime.
 * Awarded scholarship by Government of India for clearing *NTSE (National Talent Search Examination)* in 2016. <br>
 
 # <span style="color:navy;">Research Papers</span>
-* Shaan Ul Haque, Sajad Khodadadian, Siva Theja Maguluri, "Tight Finite Time Bounds of Two-Time-Scale Linear Stochastic Approximation with Markovian Noise" (Submitted in AISTATS 2024. Will be out soon). <br>
-* Shaan Ul Haque, Ajit Rajwade, Karthik S Gurumoorthy, "Joint Probability Estimation Using Tensor Decomposition and Dictionaries", [EUSIPCO 2022](https://eurasip.org/Proceedings/Eusipco/Eusipco2022/pdfs/0002226.pdf).   <br>
-* S Sharma, A Girish, N P Rakhashia, V M Gadre, Shaan Ul Haque, A Ansari, R B Pachori, P Radhakrishna, P Sahay, "Theoretical Analysis of an Inverse Radon Transform Based Multicomponent Micro-Doppler Parameter Estimation Algorithm", [2022 National Conference on Communications (NCC)](https://ieeexplore.ieee.org/abstract/document/9806802).  <br>
-* Shaan Ul Haque, Siddharth Chandak, Federico Chiariotti, Deniz Gündüz, Petar Popovski, "Learning to Speak on Behalf of a Group: Medium Access Control for Sending a Shared Message", [IEEE Communications Letters, 2022](https://ieeexplore.ieee.org/abstract/document/9792282).  <br>
+* <b> Shaan Ul Haque </b>, Sajad Khodadadian, Siva Theja Maguluri, "Tight Finite Time Bounds of Two-Time-Scale Linear Stochastic Approximation with Markovian Noise" (Submitted in AISTATS 2024. Will be out soon). <br>
+* <b> Shaan Ul Haque </b>, Ajit Rajwade, Karthik S Gurumoorthy, "Joint Probability Estimation Using Tensor Decomposition and Dictionaries", [EUSIPCO 2022](https://eurasip.org/Proceedings/Eusipco/Eusipco2022/pdfs/0002226.pdf).   <br>
+* S Sharma, A Girish, N P Rakhashia, V M Gadre, <b> Shaan Ul Haque </b>, A Ansari, R B Pachori, P Radhakrishna, P Sahay, "Theoretical Analysis of an Inverse Radon Transform Based Multicomponent Micro-Doppler Parameter Estimation Algorithm", [2022 National Conference on Communications (NCC)](https://ieeexplore.ieee.org/abstract/document/9806802).  <br>
+* <b> Shaan Ul Haque </b>, Siddharth Chandak, Federico Chiariotti, Deniz Gündüz, Petar Popovski, "Learning to Speak on Behalf of a Group: Medium Access Control for Sending a Shared Message", [IEEE Communications Letters, 2022](https://ieeexplore.ieee.org/abstract/document/9792282).  <br>
 
 
