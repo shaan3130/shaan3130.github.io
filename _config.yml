@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shaan ul Haque"
+title                    : "Shaan Ul Haque"
 title_separator          : "-"
 name                     : &name "Shaan"
 description              : &description "Student of Electrical Engineering, IIT Bombay"
