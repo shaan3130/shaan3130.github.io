@@ -17,7 +17,11 @@ My interests are in the theoretical analysis of Stochastic Approximation Algorit
 I like to workout, cook and watch anime. 
 
 # Awards and Achievements
-* <b>Recipient of <span style="color:blue"> *Stewart Topper Fellowship Award from ISyE department* </span>, Georgia Tech. </b> <br>
+* <b>Recipient of *Stewart Topper Fellowship Award from ISyE department*, Georgia Tech. </b> <br>
+* <b>Awarded *Undergraduate Research Award-01 (URA-01)* by IIT Bombay for research on RADAR Imaging. </b> <br>
+* <b>Secured *All India Rank 111 in JEE Advanced*, 2018 among selected 172,000 aspirants. </b> <br>
+* <b>Recipient of fellowship by the Indian Institute Of Science (IISc), Bangalore for clearing *Kishore Vagyanik Protsahan Yojana (KVPY)*. </b> <br>
+* <b>Awarded scholarship by Government of India for clearing *NTSE (National Talent Search Examination)* in 2016. </b> <br>
 
 # Research Papers
 * <b>Shaan Ul Haque, Sajad Khodadadian, Siva Theja Maguluri, "Tight Finite Time Bounds of Two-Time-Scale Linear Stochastic Approximation with Markovian Noise" (Submitted in AISTATS 2024. Will be out soon). </b> <br>
