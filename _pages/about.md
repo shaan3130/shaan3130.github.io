@@ -29,4 +29,7 @@ I like to workout, cook and watch anime.
 * S Sharma, A Girish, N P Rakhashia, V M Gadre, <b> Shaan Ul Haque </b>, A Ansari, R B Pachori, P Radhakrishna, P Sahay, "Theoretical Analysis of an Inverse Radon Transform Based Multicomponent Micro-Doppler Parameter Estimation Algorithm", [2022 National Conference on Communications (NCC)](https://ieeexplore.ieee.org/abstract/document/9806802).  <br>
 * <b> Shaan Ul Haque </b>, Siddharth Chandak, Federico Chiariotti, Deniz Gündüz, Petar Popovski, "Learning to Speak on Behalf of a Group: Medium Access Control for Sending a Shared Message", [IEEE Communications Letters, 2022](https://ieeexplore.ieee.org/abstract/document/9792282).  <br>
 
-
+# <span style="color:navy;">Courses completed so far</span>
+* <b> Fall 2023: </b>Theoretical Statistics, Linear Optimisation <br>
+* <b> Spring 2023: </b>Design and Analysis of Algorithms, Machine Learning: Theory and Methods, Real Analysis 1 <br>
+* <b> Fall 2022: </b>Mathematical Foundations of Machine Learning, First order methods in optimisation for Machine Learning <br>
