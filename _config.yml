@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shaan"
-  avatar           : "picture.jpg"
+  avatar           : "bio_picture.jpg"
   bio              : "PhD in Machine Learning, Georgia Tech"
   location         : "Atlanta, Georgia, USA"
   employer         :
