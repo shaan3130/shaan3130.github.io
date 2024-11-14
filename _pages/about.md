@@ -17,6 +17,7 @@ My interests are in the theoretical analysis of Stochastic Approximation Algorit
 I like to workout, cook and watch anime. 
 
 # <span style="color:navy;">Research Papers</span>
+* <b> Shaan Ul Haque </b>, Siva Theja Maguluri, "Stochastic Approximation with Unbounded Markovian Noise: A General-Purpose Theorem" , [arxiv version](https://arxiv.org/pdf/2410.21704),(Submitted). <br>
 * <b> Shaan Ul Haque </b>, Sajad Khodadadian, Siva Theja Maguluri, "Tight Finite Time Bounds of Two-Time-Scale Linear Stochastic Approximation with Markovian Noise" , [arxiv version](https://arxiv.org/abs/2401.00364),(Submitted). <br>
 * <b> Shaan Ul Haque </b>, Ajit Rajwade, Karthik S Gurumoorthy, "Joint Probability Estimation Using Tensor Decomposition and Dictionaries", [EUSIPCO 2022](https://eurasip.org/Proceedings/Eusipco/Eusipco2022/pdfs/0002226.pdf).   <br>
 * S Sharma, A Girish, N P Rakhashia, V M Gadre, <b> Shaan Ul Haque </b>, A Ansari, R B Pachori, P Radhakrishna, P Sahay, "Theoretical Analysis of an Inverse Radon Transform Based Multicomponent Micro-Doppler Parameter Estimation Algorithm", [2022 National Conference on Communications (NCC)](https://ieeexplore.ieee.org/abstract/document/9806802).  <br>
