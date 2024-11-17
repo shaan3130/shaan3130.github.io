@@ -24,6 +24,7 @@ I like to workout, cook and watch anime.
 * <b> Shaan Ul Haque </b>, Siddharth Chandak, Federico Chiariotti, Deniz Gündüz, Petar Popovski, "Learning to Speak on Behalf of a Group: Medium Access Control for Sending a Shared Message", [IEEE Communications Letters, 2022](https://ieeexplore.ieee.org/abstract/document/9792282).  <br>
 
 # <span style="color:navy;">Courses completed so far</span>
+* <b> Fall 2024: </b>Linear Controls, High-Dimensional Statistics <br>
 * <b> Spring 2024: </b>Optimization in Reinforcement Learning, Stochastic Processes 1 <br>
 * <b> Fall 2023: </b>Theoretical Statistics, Linear Optimization <br>
 * <b> Spring 2023: </b>Design and Analysis of Algorithms, Machine Learning: Theory and Methods, Real Analysis 1 <br>
