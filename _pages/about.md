@@ -26,4 +26,4 @@ I like to workout, cook and watch anime.
 # <span style="color:navy;"> Courses completed so far</span>
 * <b> Machine Learning: </b>Optimization in Reinforcement Learning, Machine Learning: Theory and Methods, Mathematical Foundations of Machine Learning, First order methods in optimization for Machine Learning <br>
 * <b> Mathematics and Statistics: </b>Real Analysis 1, Theoretical Statistics, High-Dimensional Statistics, Linear Optimization, Stochastic Processes 1 <br>
-* <b> Computer Science: </b>Design and Analysis of Algorithms <br>
+* <b> Miscellaneous: </b> Design and Analysis of Algorithms, Linear Controls <br>
