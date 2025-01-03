@@ -12,7 +12,7 @@ redirect_from:
 
 Hello there! I am a third-year PhD student in Machine Learning in [H. Milton Stewart School of Industrial & Systems Engineering](https://www.isye.gatech.edu/) at Georgia Tech, Atlanta. I am being advised by [Prof. Siva Theja Maguluri](https://sites.google.com/site/sivatheja/).
 
-My interests are in the theoretical analysis of Stochastic Approximation Algorithms with major focus on its application in Reinforcement Learning and Machine Learning. I received my B.Tech in Electrical Engineering with Honors and with Minor in Computer Science and Engineering at Indian Institute of Technology, Bombay. 
+My interests are in the theoretical analysis of Stochastic Approximation Algorithms with major focus on its application in Reinforcement Learning and Machine Learning. I received my B.Tech in Electrical Engineering with Honors and Minor in Computer Science and Engineering at Indian Institute of Technology, Bombay. 
 
 I like to workout, cook and watch anime. 
 
@@ -23,9 +23,7 @@ I like to workout, cook and watch anime.
 * S Sharma, A Girish, N P Rakhashia, V M Gadre, <b> Shaan Ul Haque </b>, A Ansari, R B Pachori, P Radhakrishna, P Sahay, "Theoretical Analysis of an Inverse Radon Transform Based Multicomponent Micro-Doppler Parameter Estimation Algorithm", [2022 National Conference on Communications (NCC)](https://ieeexplore.ieee.org/abstract/document/9806802).  <br>
 * <b> Shaan Ul Haque </b>, Siddharth Chandak, Federico Chiariotti, Deniz Gündüz, Petar Popovski, "Learning to Speak on Behalf of a Group: Medium Access Control for Sending a Shared Message", [IEEE Communications Letters, 2022](https://ieeexplore.ieee.org/abstract/document/9792282).  <br>
 
-# <span style="color:navy;">Courses completed so far</span>
-* <b> Fall 2024: </b>Linear Controls, High-Dimensional Statistics <br>
-* <b> Spring 2024: </b>Optimization in Reinforcement Learning, Stochastic Processes 1 <br>
-* <b> Fall 2023: </b>Theoretical Statistics, Linear Optimization <br>
-* <b> Spring 2023: </b>Design and Analysis of Algorithms, Machine Learning: Theory and Methods, Real Analysis 1 <br>
-* <b> Fall 2022: </b>Mathematical Foundations of Machine Learning, First order methods in optimization for Machine Learning <br>
+# <span style="color:navy;"> Courses completed so far</span>
+* <b> Machine Learning: </b>Optimization in Reinforcement Learning, Machine Learning: Theory and Methods, Mathematical Foundations of Machine Learning, First order methods in optimization for Machine Learning <br>
+* <b> Mathematics and Statistics: </b>Real Analysis 1, Theoretical Statistics, High-Dimensional Statistics, Linear Optimization, Stochastic Processes 1 <br>
+* <b> Computer Science: </b>Design and Analysis of Algorithms <br>
