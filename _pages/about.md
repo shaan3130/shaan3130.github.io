@@ -14,8 +14,6 @@ Hello there! I am a fourth-year PhD student in Machine Learning in [H. Milton St
 
 My interests are in the theoretical analysis of Stochastic Approximation Algorithms with major focus on its application in Reinforcement Learning and Machine Learning. Recently, I was fortunate to intern as a student researcher in Google DeepMind, India with the MLO team under the guidance of Dr. Dheeraj Nagaraj. My work involved developing a general sample-efficient procedure to improve the performance of flow models for in image generation. I received my B.Tech in Electrical Engineering with Honors and Minor in Computer Science and Engineering at Indian Institute of Technology, Bombay. 
 
-I like to workout, cook and watch anime. 
-
 # <span style="color:navy;">Research Papers</span>
 * G G Anil, <b> SU Haque </b>, N Kannen, D Nagaraj, K Shanmugan, S Shakottai, "Fine-Tuning Diffusion Models via Intermediate Distribution Shaping'', [arxiv version](https://arxiv.org/abs/2510.02692), Submitted <br>
 * S Chandak, <b> SU Haque </b>, N Bambos, "Finite-time Bounds for Two-Time-Scale Stochastic Approximation with Arbitrary Norm Contractions and Markovian Noise'', [arxiv version](https://arxiv.org/pdf/2503.18391), Accepted in 64th IEEE Conference on Decision and Control. <br>
