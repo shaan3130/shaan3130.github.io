@@ -18,7 +18,7 @@ I like to workout, cook and watch anime.
 
 # <span style="color:navy;">Research Papers</span>
 * G. G. Anil, <b> SU Haque </b>, N. Kannen, D. Nagaraj, K. Shanmugan, S. Shakottai, ``Fine-Tuning Diffusion Models via Intermediate Distribution Shaping'', [arxiv version] (https://arxiv.org/abs/2510.02692), Submitted <br>
-* <b> S. Chandak, <b> SU Haque </b>, N. Bambos, ``Finite-time Bounds for Two-Time-Scale Stochastic Approximation with Arbitrary Norm Contractions and Markovian Noise'', [arxiv version] (https://arxiv.org/pdf/2503.18391), Accepted in 64th IEEE Conference on Decision and Control. <br>
+* S. Chandak, <b> SU Haque </b>, N. Bambos, ``Finite-time Bounds for Two-Time-Scale Stochastic Approximation with Arbitrary Norm Contractions and Markovian Noise'', [arxiv version] (https://arxiv.org/pdf/2503.18391), Accepted in 64th IEEE Conference on Decision and Control. <br>
 * <b> SU Haque </b>, Siva Theja Maguluri, "Stochastic Approximation with Unbounded Markovian Noise: A General-Purpose Theorem", [AISTATS 2025](https://proceedings.mlr.press/v258/haque25a.html). <br>
 * <b> SU Haque </b>, Sajad Khodadadian, Siva Theja Maguluri, "Tight Finite Time Bounds of Two-Time-Scale Linear Stochastic Approximation with Markovian Noise", [arxiv version](https://arxiv.org/abs/2401.00364),(Submitted). <br>
 * <b> SU Haque </b>, Ajit Rajwade, Karthik S Gurumoorthy, "Joint Probability Estimation Using Tensor Decomposition and Dictionaries", [EUSIPCO 2022](https://eurasip.org/Proceedings/Eusipco/Eusipco2022/pdfs/0002226.pdf).   <br>
