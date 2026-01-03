@@ -39,3 +39,16 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.author__avatar img {
+  max-width: 150px; /* Change this to your preferred width */
+  height: auto;
+  border-radius: 50%; /* Keeps it circular; remove if you want a square */
+}
+
+/* Adjust the container for mobile views if needed */
+.author__avatar {
+  @include breakpoint($large) {
+    min-width: 150px; 
+  }
+}
