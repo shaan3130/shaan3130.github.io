@@ -17,7 +17,7 @@ My interests are in the theoretical analysis of Stochastic Approximation Algorit
 # <span style="color:navy;">Research Papers</span>
 * G G Anil, <b> SU Haque </b>, N Kannen, D Nagaraj, K Shanmugan, S Shakottai, "Fine-Tuning Diffusion Models via Intermediate Distribution Shaping'', [arxiv version](https://arxiv.org/abs/2510.02692), Accepted in ICLR 2026 <br>
 * S Chandak, <b> SU Haque </b>, N Bambos, "Finite-time Bounds for Two-Time-Scale Stochastic Approximation with Arbitrary Norm Contractions and Markovian Noise'', [arxiv version](https://arxiv.org/pdf/2503.18391), [64th IEEE CDC](https://ieeexplore.ieee.org/document/11312393). <br>
-* <b> SU Haque </b>, ST Maguluri, "Stochastic Approximation with Unbounded Markovian Noise: A General-Purpose Theorem", [AISTATS 2025](https://proceedings.mlr.press/v258/haque25a.html). <br>
+* <b> SU Haque </b>, ST Maguluri, "Stochastic Approximation with Unbounded Markovian Noise: A General-Purpose Theorem", [arxiv version](https://arxiv.org/abs/2410.21704), [AISTATS 2025](https://proceedings.mlr.press/v258/haque25a.html). <br>
 * S Zhang, Z Zhang, Z Chen, <b> SU Haque </b>, ST Maguluri, "A non-asymptotic theory of seminorm Lyapunov stability: From deterministic to stochastic iterative algorithms'', [arxiv version](https://arxiv.org/pdf/2502.14208),  Submitted <br>
 * <b> SU Haque </b>, S Khodadadian, ST Maguluri, "Tight Finite Time Bounds of Two-Time-Scale Linear Stochastic Approximation with Markovian Noise", [arxiv version](https://arxiv.org/abs/2401.00364), (Submitted). <br>
 * <b> SU Haque </b>, A Rajwade, KS Gurumoorthy, "Joint Probability Estimation Using Tensor Decomposition and Dictionaries", [EUSIPCO 2022](https://eurasip.org/Proceedings/Eusipco/Eusipco2022/pdfs/0002226.pdf).   <br>
