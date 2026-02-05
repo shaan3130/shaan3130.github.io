@@ -5,7 +5,7 @@ permalink: /Research/
 author_profile: true
 ---
 
-* # <span style="color:navy;">Research Papers</span>Quantifying Normality: Convergence Rate to Gaussian Limit for Stochastic Approximation and Unadjusted OU Algorithm <br>
+*  <b> <span style="color:teal;"> Quantifying Normality: Convergence Rate to Gaussian Limit for Stochastic Approximation and Unadjusted OU Algorithm </b> <br>
 <b> SU Haque </b>, Z. Wang, Z. Zhang, ST Maguluri, Submitted
 
 * <b>Learning to Speak on Behalf of a Group: Medium Access Control for Sending a Shared Message </b> <br>
